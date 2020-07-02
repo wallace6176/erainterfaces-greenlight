@@ -33,6 +33,9 @@ vendor/bundle
 .env
 env
 
+# Ignore docker-compose.yml
+docker-compose.yml
+
 # Ignore yarn configs
 /node_modules
 
